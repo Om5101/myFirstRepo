@@ -1,6 +1,6 @@
 # myFirstRepo
 This is my first Repository
 <br>
-Author- Om Shinde
+Author- Om Dinesh Shinde
 <br>
 SPIT Mumbai
